@@ -1,2 +1,0 @@
-# vcare
-medical app
